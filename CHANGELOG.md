@@ -9,3 +9,5 @@
 - Definición de la clase FineAnalyzer y visualización de reportes.
 ### Día 5 - Ejercicio 05
 - Visualización de reportes gráficos y su correspondiente almacenamiento.
+### Día 6 - Ejercicio 06
+- Visualización de reportes númericos.
