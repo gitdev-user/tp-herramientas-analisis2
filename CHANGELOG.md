@@ -11,3 +11,5 @@
 - Visualización de reportes gráficos y su correspondiente almacenamiento.
 ### Día 6 - Ejercicio 06
 - Visualización de reportes númericos.
+### Día 7 - Ejercicio 07
+- Agregando conclusión final en el archivo urban_flow/data/Readme.md.
