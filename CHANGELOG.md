@@ -7,3 +7,5 @@
 - Procesamiento del dataset original y su correspondiente almacenamiento.
 ### Día 4 - Ejercicio 04
 - Definición de la clase FineAnalyzer y visualización de reportes.
+### Día 5 - Ejercicio 05
+- Visualización de reportes gráficos y su correspondiente almacenamiento.
