@@ -1,3 +1,5 @@
 ## [SPRINT 1]
 ### Día 1 - Ejercicio 01
 - Configuración e inicialización de la herramienta Git.
+### Día 2 - Ejercicio 02
+- Descarga y almacenamiento del dataset raw original en urban_flow/data/raw/speeding_fines.csv.
