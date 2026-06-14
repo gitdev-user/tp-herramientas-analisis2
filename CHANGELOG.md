@@ -22,3 +22,5 @@
 ### Día 3 - Ejercicio 03
 - Conversión de las imágenes a escala de grises, suavizado y contorno.
 - Visualización de las imágenes creadas.
+### Día 4 - Ejercicio 04
+- Procesamiento de imágenes y match con el dataset.
