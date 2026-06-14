@@ -19,3 +19,6 @@
 ### Día 2 - Ejercicio 02
 - Clasificación y almacenamiento de información de imágenes en un archivo .json.
 - Visualización de las imágenes reales.
+### Día 3 - Ejercicio 03
+- Conversión de las imágenes a escala de grises, suavizado y contorno.
+- Visualización de las imágenes creadas.
