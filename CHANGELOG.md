@@ -13,3 +13,6 @@
 - Visualización de reportes númericos.
 ### Día 7 - Ejercicio 07
 - Agregando conclusión final en el archivo urban_flow/data/Readme.md.
+## [SPRINT 2]
+### Día 1 - Ejercicio 01
+- Configuración de git y descarga del dataset de imágenes

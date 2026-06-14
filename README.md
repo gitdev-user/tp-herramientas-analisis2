@@ -1,17 +1,23 @@
 ## Objetivo
 
-El objetivo principal de este proyecto es aplicar los conocimientos adquiridos en para el versionado de código, la organización, limpieza del código y la utilización de pandas.
+El objetivo principal de este proyecto es aplicar los conocimientos adquiridos en el tratamiento de imágenes, la programación limpia y clara.
 
-## Introducción y Contexto del problema
+### Sprint 2
 
-### Sprint 1
+#### Introducción y contexto del nuevo problema
 
-La localidad llamada Vaalserberg de Bélgica se encuentra en la zona fronteriza y limita con los paises de Países Bajos y Alemania. Esta localidad cuenta con un sistema de radares urbanos para la detección de infracciones por exceso de velocidad. Los registros históricos provienen de sistemas heredados, el cuál presenta errores de formato, faltante de datos generando registros inconsistentes en el nuevo sistema.
+Los radares urbanos generan registros administrativos de multas de forma automática y las cámaras asociadas registran la evidencia visual que acompaña y valida de forma visual la infracción. Sin embargo se plantean los siguientes puntos a tener en consideración:
 
-Debemos analizar y depurar los datos de viejo sistema para obtener información relevante sobre las infracciones y de está forma en el futuro poder incorporar los datos al nuevo sistema sin inconsistencias.
+- No todas las multas tienen una imagen asociada.
 
-Descargar el dataset [speeding fines](https://raw.githubusercontent.com/HAD141/datasets/refs/heads/main/TrabajosPracticos/urban_flow/speeding_fines.csv) https://raw.githubusercontent.com/HAD141/datasets/refs/heads/main/TrabajosPracticos/urban_flow/speeding_fines.csv
+- No todas las imágenes corresponden a una infracción.
 
-El dataset contiene información histórica de multas por exceso de velocidad y presenta errores que deberán ser tratados para evitar inconsistencias.
+- Puede haber errores de detección.
 
+El objetivo actual es desarrollar un sistema que determine ¿Qué multas tienen evidencia visual válida?
 
+Para esto vamos a necesitar los siguientes dataset:
+
+- Dataset procesado en el sprint 1.
+
+- [Dataset de imágenes](https://github.com/HAD141/datasets/raw/refs/heads/main/TrabajosPracticos/urban_flow/urban_flow_plates.zip)
