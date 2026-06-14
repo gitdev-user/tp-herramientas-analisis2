@@ -28,3 +28,4 @@
 - Reporte de métricas del nuevo dataset con imágenes.
 ### Día 6 - Ejercicio 06
 - Conclusión agregada al Readme.md con respecto a las imágenes y datos encontrados.
+- Corrección en el archivo Readme.md.
