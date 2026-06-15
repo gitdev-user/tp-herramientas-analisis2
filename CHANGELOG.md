@@ -41,3 +41,5 @@
 - Diseño del modelo de clases para Vehiculo, Multa, Radar e Evidencia.
 ### Día 4 - Ejercicio 04
 - Definición de la función procesar_fila_csv.
+### Día 5 - Ejercicio 05
+- Definición del modelo relacional con el ORM de SQLAlchemy.
