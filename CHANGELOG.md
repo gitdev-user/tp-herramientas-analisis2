@@ -33,3 +33,5 @@
 ### Día 1 - Ejercicio 01
 - Configuración de git.
 - Verificación de que la existencia del dataset de multas y el de multas con imágenes.
+### Día 2 - Ejercicio 02
+- Migrando el contenido binario de /content/tp-herramientas-analisis2/urban_flow/data/raw/imgs con DVC.
