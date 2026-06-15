@@ -39,3 +39,5 @@
 - Migrando el contenido binario de /content/tp-herramientas-analisis2/urban_flow/data/interim/imgs/ con DVC.
 ### Día 3 - Ejercicio 03
 - Diseño del modelo de clases para Vehiculo, Multa, Radar e Evidencia.
+### Día 4 - Ejercicio 04
+- Definición de la función procesar_fila_csv.
