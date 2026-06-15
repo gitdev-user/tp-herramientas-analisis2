@@ -36,3 +36,4 @@
 ### Día 2 - Ejercicio 02
 - Migrando el contenido binario de /content/tp-herramientas-analisis2/urban_flow/data/raw/imgs con DVC.
 - Migrando el contenido binario de /content/tp-herramientas-analisis2/urban_flow/data/interim/plots/ con DVC.
+- Migrando el contenido binario de /content/tp-herramientas-analisis2/urban_flow/data/interim/imgs/ con DVC.
