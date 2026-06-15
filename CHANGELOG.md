@@ -43,3 +43,5 @@
 - Definición de la función procesar_fila_csv.
 ### Día 5 - Ejercicio 05
 - Definición del modelo relacional con el ORM de SQLAlchemy.
+### Día 6 - Ejercicio 06
+- Creación de base de datos 'transito' e importación de los datos del archivo .csv.
