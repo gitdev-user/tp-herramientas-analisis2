@@ -47,3 +47,5 @@
 - Creación de base de datos 'transito' e importación de los datos del archivo .csv.
 ### Día 7 - Ejercicio 07
 - Visualización de reportes.
+### Día 10 - Ejercicio 10
+- Conclusión agregada al Readme.md con respecto al trabajo desarrollado.

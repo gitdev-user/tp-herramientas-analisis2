@@ -43,3 +43,13 @@ un detector de regiones (contornos con más filtro geométrico) previo al OCR pa
 ampliar y diversificar el dataset visual para cubrir más variantes de iluminación y ángulos, restringir EasyOCR a caracteres 
 alfanuméricos, y evaluar modelos de OCR especializados en patentes vehiculares. En conjunto, estas acciones permitirían aumentar
 tanto la cobertura como la confiabilidad de la validación automática de infracciones.
+
+## Análisis de la Última Etapa del Trabajo
+
+El sistema de gestión de multas de tráfico ha sido exitosamente migrado a una base de datos relacional utilizando SQLAlchemy, lo que permite un manejo más estructurado y eficiente de la información. 
+
+Se han identificado las patentes con mayor número de infracciones, destacando vehículos como 'WEFLYN' y 'HF3461' como reincidentes. Asimismo, los radares 'R01', 'R03' y 'R02' muestran ser los más activos en la detección de infracciones.
+
+Un análisis del período 2020-2025 confirma la persistencia de ciertas patentes como reincidentes, como 'T0YDR' y 'XIIUME'. 
+
+Finalmente, se ha determinado que aproximadamente el 26.97% de las multas cuentan con evidencia fotográfica, lo que resalta la importancia de la integración de datos visuales en el sistema aunque se podría mejorar la detección en imágenes en líneas futuras.
