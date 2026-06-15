@@ -29,3 +29,7 @@
 ### Día 6 - Ejercicio 06
 - Conclusión agregada al Readme.md con respecto a las imágenes y datos encontrados.
 - Corrección en el archivo Readme.md.
+## [SPRINT 3]
+### Día 1 - Ejercicio 01
+- Configuración de git.
+- Verificación de que la existencia del dataset de multas y el de multas con imágenes.
